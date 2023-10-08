@@ -13,4 +13,4 @@ This is a good example of [my code](https://gist.github.com/pizpirella/8e097cbf0
 
 ## Colab example
 
-this is the (notebook)(https://colab.research.google.com/drive/1JYkz2GXHRjmordg8B83BlMOR1hmA7i7L#scrollTo=Sezls4W8NYMH&line=1&uniqifier=1)
+this is the [notebook](https://colab.research.google.com/drive/1JYkz2GXHRjmordg8B83BlMOR1hmA7i7L#scrollTo=Sezls4W8NYMH&line=1&uniqifier=1)
